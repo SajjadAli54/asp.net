@@ -1,0 +1,14 @@
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/bin/Debug/net8.0/HelloWorldConsole
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/bin/Debug/net8.0/HelloWorldConsole.deps.json
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/bin/Debug/net8.0/HelloWorldConsole.runtimeconfig.json
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/bin/Debug/net8.0/HelloWorldConsole.dll
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/bin/Debug/net8.0/HelloWorldConsole.pdb
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.AssemblyInfoInputs.cache
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.AssemblyInfo.cs
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.csproj.CoreCompileInputs.cache
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.dll
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/refint/HelloWorldConsole.dll
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.pdb
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/HelloWorldConsole.genruntimeconfig.cache
+/home/sajjad/Documents/Codes/Dotnet/HelloWorldConsole/obj/Debug/net8.0/ref/HelloWorldConsole.dll
