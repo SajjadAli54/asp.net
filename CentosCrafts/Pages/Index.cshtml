@@ -1,0 +1,17 @@
+﻿@page
+@using CentosCrafts.Components
+@using static Microsoft.AspNetCore.Components.Web.RenderMode
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Centoso Crafts</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@(await Html.RenderComponentAsync<ProductList>(RenderMode.ServerPrerendered))
+
+@* <Routes rendermode="InteractiveServer" /> *@
+<script src="_framework/blazor.server.js"></script>
